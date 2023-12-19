@@ -2,8 +2,7 @@
 node_modules/
 
 # Dependency directories
-/public/styles.css
-/dist/
+
 
 # Logs
 logs/
@@ -12,7 +11,5 @@ logs/
 # Environment variables
 .env
 
-# macOS
-.DS_Store
 
 # Editor directories
